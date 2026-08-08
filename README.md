@@ -2,117 +2,334 @@
 
 ### Vreckové observatórium pre nepokojnú oblohu
 
-Nimbus nie je ďalšia sivá tabuľka čísel o počasí.  
-Je to **malé observatórium**, ktoré si strčíš do vrecka, a ktoré počúva, čo robí vzduch nad tvojou hlavou.
+**Nimbus je jednoduchá aplikácia pre Android, ktorá spája aktuálne počasie, radar zrážok, hodinový vývoj počasia, kvalitu ovzdušia a predpoveď na jednom mieste.**
 
-Počúva tep dažďa a vetra. Mapuje ďalšie otočky atmosféry.  
-Maľuje búrky na mapu ako prízraky počasia, ktoré ešte len prídu.  
-A keď sa pozrieš na graf, nezačína o polnoci včerajška. **Začína teraz**, v tejto hodine, v tvojom čase.
+Bez účtu. Bez reklám. Bez zbytočného digitálneho smogu.
 
-| | |
-|--|--|
-| **Verzia** | 1.2.0 |
-| **Pre** | Android 11 a vyššie |
-| **Jazyky** | slovenčina · čeština · nemčina · poľština · maďarčina · angličtina |
-| **Autor** | [StanoChillArt](https://stanochillart.wordpress.com/) |
+Len otvoríš aplikáciu a pozrieš sa, čo sa deje nad tebou.
+
+> **Nimbus ti nepovie iba, či bude pršať.
+> Ukáže ti, kedy má dážď prísť, približne koľko ho bude a čo sa deje nad tebou práve teraz.**
 
 ---
 
-## Stiahni si Nimbus
+## Prečo Nimbus?
 
-**[Nimbus 1.2.0: stiahnuť APK](releases/Nimbus-1.2.0.apk)**  
-(cca 48 MB, podpísané autorom)
+Väčšina aplikácií ti ukáže predpoveď a jednu veľkú ikonu dažďa.
 
-1. Stiahni súbor do telefónu.  
-2. Povoľ inštaláciu z neznámych zdrojov (prehliadač / Files).  
-3. Nainštaluj. Otvor. Pozri sa na oblohu, aj keď práve prší.
+Nimbus sa snaží ukázať **príbeh počasia v čase**.
 
-Žiadny obchod. Žiadny účet. Žiadna reklama medzi tebou a búrkou.  
-Len appka, signál a tvoja zvedavosť.
+Napríklad pri daždi môžeš vidieť nielen jeho pravdepodobnosť v percentách, ale aj približné množstvo zrážok v milimetroch a jeho vývoj počas jednotlivých hodín.
 
----
+Tak môžeš zistiť:
 
-## Prečo práve Nimbus
+* či má začať pršať o chvíľu,
+* približne kedy bude dážď najsilnejší,
+* koľko zrážok sa očakáva,
+* či pôjde iba o krátku prehánku,
+* alebo či sa oplatí počkať s odchodom.
 
-Lebo väčšina weather appiek ti ukáže **„zajtra 40 %“** a usmeje sa.  
-Nimbus ti povie, **koľko vody** môže spadnúť, v milimetroch, hodinu po hodine.
-
-Lebo radar a predpoveď by mali bývať **v jednom dome**, nie v dvoch appkách, ktoré sa navzájom nepoznajú.
-
-Lebo tvoja poloha a história miest **nepatria na cudzí server** v mene „lepšieho zážitku“.  
-Nimbus drží pamäť **u teba**. Žiadny cloudový denník o tom, kde si stál v daždi.
-
-Lebo stredná Európa nie je anglická poznámka pod čiarou. Hovorí **tvojím jazykom**, hneď po inštalácii.
-
-A lebo keď otvoríš graf, vidíš **prítomnosť a budúcnosť**, nie mŕtvy začiatok dňa o 00:00.
+**Percentá povedia, aká je pravdepodobnosť.
+Milimetre ukážu približné množstvo.
+Časová os ukáže, kedy sa to má stať.**
 
 ---
 
-## Čo uvidíš, keď vstúpiš
+## Čo uvidíš
 
-### Domov: mostík kapitána
-Jedným pohľadom: teplota, ako sa cíti vzduch na koži, vietor a jeho nárazy, tlak, vlhkosť, UV, oblaky, dohľadnosť.  
-Slnko a mesiac: kedy stúpajú, kedy klesajú.  
-Potom **čiara tepla na 48 hodín** a stĺpce dažďa, od tejto chvíle ďalej.  
-Pod ňou **dvadsaťštyri hodín s ikonami**, rýchly strip budúcnosti.  
-A **sedem dní**, aby si vedel, či balíš pláštenku alebo slnečné okuliare.
+### 🌦️ Domov
 
-### Kvalita ovzdušia: dýchaj s rozvahou
-Európsky **AQI** vo farbe: od pokojnej zelenej po varovnú fialovú.  
-Číslo, slovo, a pod ním stopy prachu a plynov (PM2.5, PM10, ozón a priatelia), keď ich obloha prezradí.
+Na jednej obrazovke nájdeš najdôležitejšie informácie o počasí.
 
-### Radar: oko v búrke
-Animované snímky zrážok sa posúvajú ako film o tom, čo práve padá a čo sa blíži.  
-Tmavá noc mapy alebo svetlá denná.  
-Tvoja poloha ako maják. Priblíž, oddial, sleduj front.
+**Teraz**
 
-### Dážď: reč milimetrov
-Teraz. Ďalších dvadsaťštyri hodín. Dnes.  
-Grafy, ktoré neklamú percentami namiesto vody.  
-Hodiny, kedy to klope na strechu: zoradené, pomenované, merané.
+Teplota, pocitová teplota, vietor, nárazy vetra, tlak, vlhkosť, UV, oblačnosť a dohľadnosť.
 
-### Widget: okno na ploche
-Sedem dní bez otvorenia appky.  
-Maximum, minimum, kvapka keď prší.  
-A malý **AQI** s farbou, tichý strážca dychu na domovskej obrazovke.
+**Najbližších 48 hodín**
 
-### Nastavenia: tvoje pravidlá
-Jazyk. Tma alebo svetlo. Celzius alebo Fahrenheit.  
-Dva hlasy predpovede: **Open-Meteo** alebo **MET Norway**.  
-Radar rýchlejší alebo pokojnejší.  
-A na konci meno toho, kto to stvoril, a poďakovanie mysli, čo pomáhala kovať.
+Vývoj teploty a zrážok od aktuálneho okamihu.
+
+**24 hodín**
+
+Hodinový prehľad s ikonami počasia.
+
+**7 dní**
+
+Rýchly pohľad na nasledujúci týždeň.
 
 ---
 
-## Pre koho je Nimbus
+## 🌧️ Dážď
 
-Pre tých, čo **pozerajú na horizont**, nie len na notifikáciu.  
-Pre cyklistov, peších, rodičov s kočíkom, ľudí s bielizňou na šnúre.  
-Pre tých, čo chcú vedieť, či prehánka príde o tri hodiny, alebo až o polnoci.  
-Pre každého, kto má rád **jasný signál** a nemá rád digitálny smog.
+Nimbus zobrazuje **pravdepodobnosť dažďa v percentách aj očakávané množstvo zrážok v milimetroch**.
 
----
+Najdôležitejšie však je, že údaje môžeš sledovať v čase.
 
-## Technická lodná kniha (stručne)
+Môžeš si tak pozrieť približne:
 
-- **Android 11+**  
-- Internet na predpoveď a radar  
-- Poloha voliteľná (mesto vieš aj vyhľadať)  
-- Zdroje signálu: Open-Meteo, MET Norway (Yr), RainViewer, mapy OpenFreeMap / MapLibre  
-- Dáta o počasí a preferencie ostávajú **na zariadení**
+**kedy má začať pršať → ako silný má byť dážď → koľko zrážok sa očakáva → kedy má dážď ustúpiť.**
+
+Milimetre samozrejme nie sú meranie budúceho dažďa. Ide o meteorologickú predpoveď očakávaného množstva zrážok.
 
 ---
 
-## Stiahni. Nainštaluj. Pozeraj hore.
+## 🛰️ Radar
 
-**[Nimbus 1.2.0.apk](releases/Nimbus-1.2.0.apk)**
+Radar je pohľad na zrážky, ktoré sa práve pohybujú nad krajinou.
+
+Animácia zobrazuje vývoj zrážok v pohybe, takže môžeš sledovať:
+
+* čo prichádza,
+* čo odchádza,
+* ktorým smerom sa zrážky pohybujú,
+* či sa približujú k tvojej polohe.
+
+Tvoja poloha sa zobrazí na mape ako orientačný bod.
+
+Mapu môžeš približovať, vzďaľovať a sledovať pohyb zrážok.
+
+---
+
+## 🌬️ Kvalita ovzdušia
+
+Počasie nie je iba o daždi a teplote.
+
+Nimbus zobrazuje **Európsky AQI** a dostupné údaje o kvalite ovzdušia.
+
+Podľa dostupnosti dát môžeš vidieť napríklad:
+
+* PM2.5,
+* PM10,
+* ozón,
+* ďalšie znečisťujúce látky.
+
+AQI je zobrazený jednoducho, aby si na prvý pohľad vedel, či je kvalita vzduchu dobrá alebo si zaslúži väčšiu pozornosť.
+
+---
+
+## 📱 Widget
+
+Nemusíš aplikáciu ani otvárať.
+
+Widget na domovskej obrazovke môže zobrazovať:
+
+* sedemdňovú predpoveď,
+* minimálnu a maximálnu teplotu,
+* informáciu o daždi,
+* AQI.
+
+Malé okno do observatória, priamo na ploche telefónu.
+
+---
+
+## 🌐 A čo keď stratíš internet?
+
+Nimbus si **priebežne sťahuje predpoveď na 7 dní dopredu** a uchováva ju v zariadení.
+
+Ak sa neskôr ocitneš bez internetového pripojenia, posledná dostupná predpoveď zostáva v aplikácii k dispozícii.
+
+To znamená, že výpadok internetu nemusí znamenať výpadok informácií.
+
+Je však dôležité rozlišovať:
+
+* **uložená predpoveď** – môže zostať dostupná aj bez internetu,
+* **nové údaje** – potrebujú internetové pripojenie,
+* **radar** – potrebuje aktuálne radarové dáta, takže bez internetu ho nie je možné aktualizovať.
+
+Keď sa pripojenie obnoví, Nimbus môže získať nové údaje a predpoveď aktualizovať.
+
+---
+
+## Čo je na Nimbuse iné?
+
+### Predpoveď, radar a vzduch na jednom mieste
+
+Nemusíš prepínať medzi niekoľkými aplikáciami, aby si pochopil, čo sa deje vonku.
+
+### Dážď v percentách aj milimetroch
+
+Nimbus nezakrýva dážď za jediné číslo.
+
+Vidíš pravdepodobnosť, očakávané množstvo zrážok aj ich vývoj v čase.
+
+### Pohľad od teraz, nie od polnoci
+
+Grafy a časové osi začínajú **aktuálnym okamihom**.
+
+Keď aplikáciu otvoríš o 15:37, zaujíma ťa predovšetkým to, čo bude od 15:37 ďalej.
+
+### Sedem dní uložených v zariadení
+
+Predpoveď sa priebežne sťahuje dopredu a posledné dostupné údaje zostávajú uložené lokálne.
+
+### Bez účtu
+
+Nimbus nevyžaduje registráciu ani vytvorenie používateľského účtu.
+
+### Bez reklám
+
+Medzi tebou a informáciou o počasí nie je reklamný priestor.
+
+### Dva zdroje predpovede
+
+V nastaveniach môžeš zvoliť:
+
+* **Open-Meteo**
+* **MET Norway**
+
+### Tvoje nastavenia zostávajú v zariadení
+
+Preferencie aplikácie a uložené údaje zostávajú lokálne v zariadení.
+
+### Hovorí tvojím jazykom
+
+Nimbus je dostupný v:
+
+* slovenčine,
+* češtine,
+* nemčine,
+* poľštine,
+* maďarčine,
+* angličtine.
+
+---
+
+## Čo Nimbus potrebuje?
+
+Nimbus je určený pre **Android 11 a novší**.
+
+Na získanie nových meteorologických a radarových údajov potrebuje internetové pripojenie.
+
+**Poloha je voliteľná.**
+
+Môžeš použiť polohu telefónu alebo vyhľadať mesto ručne.
+
+Nimbus nevyžaduje používateľský účet.
+
+---
+
+## Čo Nimbus nerobí
+
+Nimbus nie je meteorologická stanica zabudovaná v telefóne.
+
+Telefón sám od seba nevie zmerať, či bude o tri hodiny pršať.
+
+Nimbus preto používa údaje z externých meteorologických, radarových a mapových služieb:
+
+* **Open-Meteo**
+* **MET Norway (Yr)**
+* **RainViewer**
+* **OpenFreeMap / MapLibre**
+
+Predpoveď počasia je vždy **odhad založený na dostupných meteorologických dátach**, nie záruka budúcnosti.
+
+Rovnako aj množstvo zrážok v milimetroch je predpovedané množstvo, nie skutočné meranie toho, čo nakoniec spadne.
+
+Radar zobrazuje dostupné radarové dáta a ich pohyb. Nie je to krištáľová guľa.
+
+---
+
+## Pre koho je Nimbus?
+
+Pre človeka, ktorý chce ráno vedieť:
+
+**„Čo bude dnes?“**
+
+Ale aj popoludní:
+
+**„Čo sa ku mne práve blíži?“**
+
+Pre cyklistu.
+
+Pre turistu.
+
+Pre rodiča s kočíkom.
+
+Pre človeka, ktorý nechce zmoknúť cestou z práce.
+
+Pre toho, kto má na šnúre bielizeň a päť minút na rozhodnutie.
+
+A pre každého, kto má radšej **jasný signál než digitálny smog**.
+
+---
+
+## Inštalácia
+
+Nimbus je distribuovaný ako APK mimo Google Play.
+
+1. Stiahni APK do telefónu.
+2. Android môže požiadať o povolenie inštalácie z daného zdroja.
+3. Ak sa systém opýta, povoľ inštaláciu pre prehliadač alebo aplikáciu **Files**.
+4. Nainštaluj Nimbus.
+5. Otvor aplikáciu.
+
+**Nimbus nevyžaduje účet ani registráciu.**
+
+Android môže pri inštalácii APK zobraziť bezpečnostné upozornenie. Je to štandardné upozornenie systému pri inštalácii aplikácií mimo Google Play.
+
+---
+
+## Technické informácie
+
+|                       |                               |
+| --------------------- | ----------------------------- |
+| **Verzia**            | 1.2.0                         |
+| **Platforma**         | Android 11+                   |
+| **Veľkosť APK**       | približne 48 MB               |
+| **Jazyky**            | SK · CZ · DE · PL · HU · EN   |
+| **Predpoveď**         | Open-Meteo / MET Norway       |
+| **Radar**             | RainViewer                    |
+| **Mapy**              | OpenFreeMap / MapLibre        |
+| **Internet**          | Potrebný na nové dáta a radar |
+| **Uložená predpoveď** | Až 7 dní                      |
+| **Poloha**            | Voliteľná                     |
+| **Účet**              | Nie                           |
+| **Reklamy**           | Nie                           |
+
+---
+
+## Stiahnuť Nimbus
+
+**[Nimbus 1.2.0 – stiahnuť APK](releases/Nimbus-1.2.0.apk)**
+
+Približne 48 MB. APK je podpísané autorom.
+
+---
+
+## Malé observatórium jedného autora
+
+Nimbus nevznikol ako ďalšia veľká meteorologická platforma.
+
+Vznikol z jednoduchej otázky:
+
+**Čo keby sme nemuseli otvárať tri rôzne aplikácie, aby sme pochopili, čo sa deje na oblohe?**
+
+Tak vzniklo malé observatórium.
+
+Niečo medzi meteorologickou mapou, palubným prístrojom a oknom do budúcnosti.
+
+Bez reklamného priestoru.
+Bez povinnej registrácie.
+Bez potreby vedieť, ako fungujú počítače.
+
+Len telefón, dáta, mapa a obloha.
+
+Na vývoji sa podieľal **Grok (xAI)** ako AI spolupracovník.
+
+---
+
+## Dôležité
+
+Nimbus je určený na osobné a nekomerčné použitie.
+
+Meteorologické, radarové a mapové údaje poskytujú externé služby. Ich dostupnosť, presnosť a podmienky používania sa môžu meniť.
+
+**Používaj iba oficiálnu distribúciu Nimbusu.**
+
+---
+
+**StanoChillArt** · [stanochillart.wordpress.com](https://stanochillart.wordpress.com/)
+
+### Stiahni. Nainštaluj. Pozri sa hore.
 
 Keď sa obloha zmení, Nimbus už bude počúvať.
-
----
-
-**StanoChillArt** · [stanochillart.wordpress.com](https://stanochillart.wordpress.com/)  
-Na vývoji sa podieľal **Grok (xAI)**, myseľ, čo obchoduje s pravdepodobnosťami tak, ako iní kedysi so hviezdami.
-
-*Osobné a nekomerčné použitie. Rešpektuj podmienky poskytovateľov dát.  
-Žiadne falošné buildy pod menom Nimbus, len signál z tohto observatória.*
