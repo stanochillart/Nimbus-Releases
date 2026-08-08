@@ -290,7 +290,7 @@ Android môže pri inštalácii APK zobraziť bezpečnostné upozornenie. Je to 
 
 ## Stiahnuť Nimbus
 
-**[Nimbus 1.2.0 – stiahnuť APK](releases/Nimbus-1.2.0.apk)**
+**[⬇️ STIAHNUŤ NIMBUS 1.2.0 (APK)](https://raw.githubusercontent.com/stanochillart/Nimbus-Releases/master/releases/Nimbus-1.2.0.apk)**
 
 Približne 48 MB. APK je podpísané autorom.
 
